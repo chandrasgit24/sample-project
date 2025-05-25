@@ -1,4 +1,6 @@
 Flask==2.2.5
 Werkzeug==2.2.3
 gunicorn
-
+azure-ai-anomalydetector==3.0.0b6
+azure-core==1.26.4
+python-dotenv==1.0.0  # Optional (for local .env testing)
